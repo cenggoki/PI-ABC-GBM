@@ -9,7 +9,7 @@ Desktop application for predicting rotating-bending fatigue strength (10⁷ cycl
 
 ##  Overview
 
-This project presents a comprehensive desktop application developed for a doctoral thesis. It aims to predict the **rotating bending fatigue strength at 10⁷ cycles** of various steel grades using a hybrid approach that combines advanced machine learning (Gradient Boosting Machine - GBM) with a nature-inspired metaheuristic algorithm (Artificial Bee Colony - ABC).
+This project presents a comprehensive desktop application developed. It aims to predict the **rotating bending fatigue strength at 10⁷ cycles** of various steel grades using a hybrid approach that combines advanced machine learning (Gradient Boosting Machine - GBM) with a nature-inspired metaheuristic algorithm (Artificial Bee Colony - ABC).
 
 Unlike traditional black-box models, this application integrates domain-specific metallurgical knowledge by automatically engineering derived features (such as CE_IIW, Pcm, Hardenability Index, and Diffusion Carbon Index) from raw process and composition data. Built with Python and PyQt, it offers a fully interactive GUI for data exploration, model training, statistical validation, and interpretability.
 
