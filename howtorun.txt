@@ -1,0 +1,17 @@
+1. Make sure Python is installed. Python 3.8 or later
+cmd> python --version
+
+2. Create a virtual environment
+cmd> cd project directory
+
+cmd> python -m venv fatigue_env
+
+cmd> fatigue_env\Scripts\activate.bat
+
+3. Install the necessary packages
+
+cmd> pip install -r requirements.txt
+
+4. Start the program
+
+cmd> python SteelFatigue38_Eng.py
